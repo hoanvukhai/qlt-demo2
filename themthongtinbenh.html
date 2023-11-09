@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Them benh</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Form thêm bệnh</h1>
+    <form action="themthongtinbenh.php" method="post">
+      <div class="form-group">
+        <label for="id">ID bệnh</label>
+        <input type="text" id="id" class="form-control" name="id">
+      </div>
+      <div class="form-group">
+        <label for="id_baithuoc">ID Bài thuốc</label>
+        <input type="text" id="id_baithuoc" class="form-control" name="id_baithuoc">
+      </div>
+      <div class="form-group">
+        <label for="id_duoclieu">ID Dược liệu</label>
+        <input type="text" id="id_duoclieu" class="form-control" name="id_duoclieu">
+      </div>
+      <button class="btn btn-success">Thêm</button>
+    </form>
+  </div>
+</body>
+</html>
