@@ -13,17 +13,13 @@ Phần mềm quản lý và tra cứu thuốc đông y được phát triển nh
 ## Thành viên
 Dự án "Phần mềm quản lý và tra cứu thuốc đông y" được phát triển bởi các thành viên sau đây:
 
-1. **Hoàng Văn Khải**
+1. **Vũ Khải Hoàn**
    - **Vai trò**: Trưởng nhóm, Phát triển backend
    - **Nhiệm vụ**: Thiết kế cơ sở dữ liệu, xử lý logic backend, tích hợp hệ thống
 
-2. **Nguyễn Thị Mai**
+2. **Đinh Trọng Việt Phú**
    - **Vai trò**: Phát triển frontend
    - **Nhiệm vụ**: Thiết kế giao diện người dùng, phát triển các trang HTML/CSS, tạo các tương tác UI
-
-**Liên hệ**
-- **Email**: [liên hệ của dự án hoặc của trưởng nhóm]
-- **Điện thoại**: [số điện thoại liên hệ]
 
 ## Tính năng
 - Xác thực người dùng (quản trị và người dùng thường)
